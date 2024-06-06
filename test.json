@@ -1,0 +1,46 @@
+{
+  "numTotalTestSuites": 2,
+  "numPassedTestSuites": 2,
+  "numFailedTestSuites": 0,
+  "numPendingTestSuites": 0,
+  "numTotalTests": 2,
+  "numPassedTests": 2,
+  "numFailedTests": 0,
+  "numPendingTests": 0,
+  "numTodoTests": 0,
+  "startTime": 1717653289332,
+  "success": true,
+  "testResults": [
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            "",
+            "MainContent"
+          ],
+          "fullName": " MainContent should render a button",
+          "status": "passed",
+          "title": "should render a button",
+          "duration": 62,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            "",
+            "MainContent"
+          ],
+          "fullName": " MainContent should show the help area after clicking the button",
+          "status": "passed",
+          "title": "should show the help area after clicking the button",
+          "duration": 76,
+          "failureMessages": []
+        }
+      ],
+      "startTime": 1717653291720,
+      "endTime": 1717653291858,
+      "status": "passed",
+      "message": "",
+      "name": "C:/Users/IKFP9H5/Downloads/01+Starting+Project/01 Starting Project/src/components/MainContent.test.jsx"
+    }
+  ]
+}
